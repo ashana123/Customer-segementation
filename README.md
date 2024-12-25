@@ -1,4 +1,4 @@
-# Customer-segementation
+
 # Customer Personality Clustering
 
 This project aims to segment customers into clusters based on their personality traits and behaviors. It employs clustering techniques to identify patterns in customer data, which can be leveraged for personalized marketing, product recommendations, and enhancing customer experience.
